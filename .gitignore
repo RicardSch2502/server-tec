@@ -1,0 +1,5 @@
+node_modules
+
+# Ignoro las imagenes
+src/public/media/imagenes
+build
